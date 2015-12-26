@@ -1,7 +1,7 @@
 ---
 layout: post
 ---
-<img src="/images/fulls/2015-12-20-material-design.jpg" class="Google Material Design">
+<img src="/images/fulls/2015-12-20-material-design.jpg" class="fit image" alt="Google Material Design">
 
 Desde que comecei a usar frameworks CSS (leia-se aqui Twitter Bootstrap ou simplesmente Bootstrap) algo mudou na maneira como eu criava websites ou personalizava templates Joomla. Era prático e fácil personalizar posições, botões, cores, layouts e etc =) as coisas não ficam tão feias (pensando apenas na funcionalidade) mas era o começo de uma paixão por praticidade e indepência. Tudo que criava ficava mais bonitinho e eu não precisava me preocupar tanto com design.
 
